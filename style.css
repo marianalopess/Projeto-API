@@ -5,6 +5,8 @@ body {
     background-image: linear-gradient(to bottom, rgb(236, 172, 172) 60%, white);
     text-align: center;
     margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 :root {
     --leter1: 'Oswald', sans-serif;
@@ -37,6 +39,7 @@ main {
     min-width: 90%;
     margin: auto;
     align-items: center;
+
 }
 #cabecalho {
     background-color: white;
