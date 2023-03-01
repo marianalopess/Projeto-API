@@ -22,7 +22,7 @@ h1 {
     color: var(--cor3);
     text-shadow: 5px 5px 5px rgba(124, 124, 124, 0.384);
     font-size: 2.5em;
-    margin: 10px 0px 0px 0px;
+    margin: 10px 0px 0px px;
 }
 img {
     margin: 20px 0px 0px 0px;
@@ -32,8 +32,8 @@ main {
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgba(124, 124, 124, 0.384);
     padding-bottom: 10px;
-    max-width: 70%;
-    min-width: 10px;
+    width: 70%;
+    min-width: 90%;
     margin: auto;
 }
 #cabecalho {
@@ -60,9 +60,11 @@ p {
 .normal {
     background-color: rgb(252, 230, 230);
     border-radius: 20px;
-    margin: 40px 50px 20px 50px;
     border: solid 1px var(--cor2);   
     box-shadow: 5px 5px 5px rgba(124, 124, 124, 0.384); 
+    max-width: 70%;
+    margin: auto;
+    margin-bottom: 30px;
 }
 
 section > h2 {
