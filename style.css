@@ -35,6 +35,7 @@ main {
     width: 70%;
     min-width: 90%;
     margin: auto;
+    align-items: center;
 }
 #cabecalho {
     background-color: white;
