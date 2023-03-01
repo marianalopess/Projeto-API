@@ -3,7 +3,7 @@
 body {
     height: 140 vh;
     background-image: linear-gradient(to bottom, rgb(236, 172, 172) 60%, white);
-    align-items: center;
+    text-align: center;
 }
 :root {
     --leter1: 'Oswald', sans-serif;
