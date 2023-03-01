@@ -4,6 +4,7 @@ body {
     height: 140 vh;
     background-image: linear-gradient(to bottom, rgb(236, 172, 172) 60%, white);
     text-align: center;
+    margin: auto;
 }
 :root {
     --leter1: 'Oswald', sans-serif;
